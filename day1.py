@@ -1,0 +1,13 @@
+x=4
+y=2
+z=x+y
+a=1+2
+print(x)
+print(z)
+z="파이썬"
+print(z)
+b=2/3
+print(b)
+print(2/0)
+c="나비"
+print(c*3)
